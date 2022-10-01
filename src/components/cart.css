@@ -1,0 +1,53 @@
+.order-item{
+    border: 3px rgb(175, 41, 41) solid;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    border-radius: 1ch;
+    align-items: center;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.5);
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+}
+
+.order-image{
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+}
+
+.deleteIcon{
+    color: red;
+}
+
+.cart{
+    margin-top: 100px;
+}
+
+.cart-empty{
+    margin-top: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    max-width: 500px;
+    text-align: center;
+    color:lightgray;
+}
+
+.cart-empty:hover{
+    color: rgb(141, 141, 141);
+}
+
+.orders-container{
+    text-align: center;
+}
+
+.orders-container Button{
+    margin-top: 7px;
+    padding:15px 55px 15px 55px;
+    max-width: 250px;
+
+}
+

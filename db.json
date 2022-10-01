@@ -1,0 +1,144 @@
+{
+  "foods": [
+    {
+      "id": 0,
+      "name": "pizza",
+      "price": "ksh.800",
+      "image": "https://www.simplyrecipes.com/thmb/qu-AslBeskzh_HG9H0dQAmcrdLQ=/648x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2019__09__easy-pepperoni-pizza-lead-4-82c60893fcad4ade906a8a9f59b8da9d.jpg",
+      "order_state":false
+    },
+    {
+      "id":1,
+      "name":"chicken",
+      "price":"ksh.700",
+      "image": "https://assets.epicurious.com/photos/5732526f1877f76a0e20831c/1:1/w_960,c_limit/EP_05102016_PeruvianStyleRoastChicken_recipe_.jpg",
+      "order_state":false
+    },
+    {
+      "id":2,
+      "name":"Lasagna",
+      "price": "ksh.1,200",
+      "image":"https://thestayathomechef.com/wp-content/uploads/2017/08/Most-Amazing-Lasagna-4-e1503516670834.jpg",
+      "order_state":false
+    },
+    {
+      "id":3,
+      "name":"Sushi",
+      "price": "ksh.1,500",
+      "image":"  https://media-cdn.tripadvisor.com/media/photo-s/19/3b/00/06/sushi-place.jpg",
+      "order_state":false
+    },
+    {
+      "id":4,
+      "name":"Burger",
+      "price": "ksh.1,500",
+      "image":"https://media.istockphoto.com/photos/hamburger-with-cheese-and-french-fries-picture-id1188412964?k=20&m=1188412964&s=612x612&w=0&h=Ow-uMeygg90_1sxoCz-vh60SQDssmjP06uGXcZ2MzPY=",
+      "order_state":false
+    },
+    {
+      "id":5,
+      "name":"Salad",
+      "price": "ksh.1,500",
+      "image":"https://cdn.loveandlemons.com/wp-content/uploads/2021/04/green-salad-500x375.jpg",
+      "order_state":false
+    },
+    {
+      "id":6,
+      "name":"Fish",
+      "price": "ksh.1,500",
+      "image":"https://images.pexels.com/photos/262959/pexels-photo-262959.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "order_state":false
+    },
+    {
+      "id":7,
+      "name":"Ice Cream",
+      "price": "ksh.1,500",
+      "image":"https://www.milkmaid.in/sites/default/files/2022-03/Strawberry-IceCream-590x436.jpg",
+      "order_state":false
+    },
+    {
+      "id":8,
+      "name":"Sushi",
+      "price": "ksh.1,500",
+      "image":"  https://media-cdn.tripadvisor.com/media/photo-s/19/3b/00/06/sushi-place.jpg",
+      "order_state":false
+    },
+    {
+      "id":9,
+      "name":"Sushi",
+      "price": "ksh.1,500",
+      "image":"  https://media-cdn.tripadvisor.com/media/photo-s/19/3b/00/06/sushi-place.jpg",
+      "order_state":false
+    },
+    {
+      "id":10,
+      "name":"Sushi",
+      "price": "ksh.1,500",
+      "image":"  https://media-cdn.tripadvisor.com/media/photo-s/19/3b/00/06/sushi-place.jpg",
+      "order_state":false
+    },
+    {
+      "id":11,
+      "name":"Sushi",
+      "price": "ksh.1,500",
+      "image":"  https://media-cdn.tripadvisor.com/media/photo-s/19/3b/00/06/sushi-place.jpg",
+      "order_state":false
+    },
+    {
+      "id":12,
+      "name":"Sushi",
+      "price": "ksh.1,500",
+      "image":"  https://media-cdn.tripadvisor.com/media/photo-s/19/3b/00/06/sushi-place.jpg",
+      "order_state":false
+    },
+    {
+      "id":13,
+      "name":"Sushi",
+      "price": "ksh.1,500",
+      "image":"  https://media-cdn.tripadvisor.com/media/photo-s/19/3b/00/06/sushi-place.jpg",
+      "order_state":false
+    },
+    {
+      "id":14,
+      "name":"Sushi",
+      "price": "ksh.1,500",
+      "image":"  https://media-cdn.tripadvisor.com/media/photo-s/19/3b/00/06/sushi-place.jpg",
+      "order_state":false
+    },
+    {
+      "id":15,
+      "name":"Sushi",
+      "price": "ksh.1,500",
+      "image":"  https://media-cdn.tripadvisor.com/media/photo-s/19/3b/00/06/sushi-place.jpg",
+      "order_state":false
+    },
+    {
+      "id":16,
+      "name":"Sushi",
+      "price": "ksh.1,500",
+      "image":"  https://media-cdn.tripadvisor.com/media/photo-s/19/3b/00/06/sushi-place.jpg",
+      "order_state":false
+    },
+    {
+      "id":17,
+      "name":"Sushi",
+      "price": "ksh.1,500",
+      "image":"  https://media-cdn.tripadvisor.com/media/photo-s/19/3b/00/06/sushi-place.jpg",
+      "order_state":false
+    },
+    {
+      "id":18,
+      "name":"Sushi",
+      "price": "ksh.1,500",
+      "image":"  https://media-cdn.tripadvisor.com/media/photo-s/19/3b/00/06/sushi-place.jpg",
+      "order_state":false
+    },
+    {
+      "id":19,
+      "name":"Sushi",
+      "price": "ksh.1,500",
+      "image":"  https://media-cdn.tripadvisor.com/media/photo-s/19/3b/00/06/sushi-place.jpg",
+      "order_state":false
+    }
+  ]
+}

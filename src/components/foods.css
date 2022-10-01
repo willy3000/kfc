@@ -1,0 +1,33 @@
+.foods-container{
+    margin: 35px;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.food-card{
+    max-width: 400px;
+    margin: 7px;
+}    
+
+.order{
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+    border: 1px solid lightgrey;
+    width: 500px;
+    background-color: lightgray;
+    border-radius: 2ch;
+}
+
+.order:hover{
+
+}
+
+.order-count{
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+}
+

@@ -1,0 +1,20 @@
+.main-container{
+    position: relative;
+}
+
+.app-bar{
+    background-color: #a40204;
+    display: flex;
+    justify-content: right;
+    padding: 18px;
+    color: antiquewhite;
+}
+
+.logo{
+    position: absolute;
+    top: 0px;
+}
+
+.cart-icon{
+    color: white;
+}
